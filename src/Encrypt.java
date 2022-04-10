@@ -1,3 +1,10 @@
+/* 
+Author: Shrijal Achärya (r3alix01)
+Date: April 10, 2022
+Version: 0.1
+UseCase: For encrypting and decrypting text in a safest way possible.
+*/
+
 import java.util.Scanner;
 import java.io.FileWriter;
 import java.io.IOException;
